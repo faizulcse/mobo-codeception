@@ -1,0 +1,12 @@
+## Environment normalization:
+tests/_output/
+vendor/
+
+# PhpStorm
+.idea/
+composer.lock
+
+# macOS Specific
+.DS_Store
+.DS_Store?
+.vscode/
